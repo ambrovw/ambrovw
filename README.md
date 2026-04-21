@@ -40,4 +40,5 @@ Open to remote-only **DevOps / DevSecOps / Cloud / Platform Engineering** roles 
 
 ## Contact
 
-- ambro@ambrovanwyk.com
+- Email: ambro@ambrovanwyk.com
+- LinkedIn: [abraham-van-wyk](https://www.linkedin.com/in/abraham-van-wyk-8216b4217/)
