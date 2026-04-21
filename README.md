@@ -11,6 +11,7 @@ I build and secure AWS infrastructure for international clients — focused on c
 - **Security & compliance** — SecurityHub, AWS Config, CloudTrail, WAF, GuardDuty, Wazuh SIEM, self-hosted Sentry
 - **Observability** — CloudWatch (Logs, Alarms, Log Insights), Chatbot + Slack, Lambda-based alert routing
 - **Application / data** — PHP (WordPress, Eloquent, Swoole), MySQL, MongoDB, REST API design, TCP/IoT protocol handling
+- **AI-assisted development** — Claude Code (Claude Opus 4.6) as daily pair-programmer, extending my effective language range beyond the Node.js / PHP / Python daily drivers
 
 ## Certifications
 
