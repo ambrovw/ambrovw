@@ -29,6 +29,7 @@ At **DevProx** (Aug 2021 – present):
 - **IoT telemetry microservice** for ~800 vehicle trackers — NLB + load-balanced `php-swoole` listeners + MongoDB + REST API. Designed a **dual-write migration strategy** that mirrored raw data to the legacy backend while building out the new pipeline, enabling safe incremental cutover instead of a big-bang switch.
 - **Compliance & detection engineering** for a US fintech — drove SecurityHub findings to closure and built CloudWatch Log Insights queries over WAF logs to catch real CIA threats, going beyond compliance checkboxes.
 - **Production OAuth 2.0 authorization server** for an EU client — designed and shipped the server on AWS serverless (SAM, 12 Lambdas, 8 DynamoDB tables, API Gateway, KMS) with a React + TypeScript admin dashboard. Ran a full RFC compliance programme against RFCs 6749 / 6750 / 7009 / 7517 / 7519 / 7636 / 7638 / 8414 (~190 requirements verified), and built scheduled AI-driven security reviews in GitHub Actions across five repos.
+- **Platform standardisation** for the same EU client — maintain a reusable Tina4 PHP reference template for spinning up new demo apps, plus a bridge layer of shared Lambda functions for Slack error reporting, Kubernetes log forwarding, self-hosted GitHub Actions runners, and ChatOps.
 
 ## Background
 
