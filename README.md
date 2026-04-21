@@ -14,13 +14,11 @@ I build and secure AWS infrastructure for international clients — focused on c
 
 ## Certifications
 
-- ISMS Lead Implementer — TrecCert (2024)
-- AWS Certified Developer – Associate (2024)
-- AWS Certified SysOps Administrator – Associate (2023)
-- AWS Certified Solutions Architect – Associate (2022)
-- AWS Certified Cloud Practitioner (2021)
-- AWS Certified DevOps Engineer – Professional _(in progress)_
-- CompTIA Security+ (2021), Linux+ (2020)
+- AWS Certified DevOps Engineer – Professional (2025)
+- AWS Certified SysOps Administrator – Associate (2023, current to 2028)
+- AWS Certified Developer – Associate (2024, current to 2028)
+- AWS Certified Cloud Practitioner (2021, current to 2027)
+- ISO/IEC 27001 ISMS Lead Implementer — TrecCert (2024)
 
 ## Recent work
 
