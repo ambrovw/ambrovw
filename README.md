@@ -1,6 +1,6 @@
 # Ambro van Wyk
 
-**DevSecOps / Cloud Engineer** · Saldanha, South Africa · Remote-only
+**DevOps / Cloud Engineer** · Saldanha, South Africa · Remote-only
 
 I build and secure AWS infrastructure for international clients — focused on cloud migrations, compliance automation, and microservice architecture on AWS.
 
@@ -34,7 +34,7 @@ At **DevProx** (Aug 2021 – present):
 
 ## What I'm looking for
 
-Open to remote-only **DevOps / DevSecOps / Cloud / Platform Engineering** roles at scale-ups and enterprises. Comfortable across timezones — standard office hours or shifted to align with EU/US teams.
+Open to remote-only **DevOps / Cloud / Platform Engineering** roles at scale-ups and enterprises. Comfortable across timezones — standard office hours or shifted to align with EU/US teams.
 
 ## Contact
 
