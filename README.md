@@ -28,6 +28,7 @@ At **DevProx** (Aug 2021 – present):
 - **Cloud migration** of a complex PHP/WordPress + PHP/Eloquent/MySQL monolith from bare metal to AWS for an EU automotive leasing client — systematic cutover to EC2, then to cloud-native services; built observability, alerting, and security hardening from the ground up.
 - **IoT telemetry microservice** for ~800 vehicle trackers — NLB + load-balanced `php-swoole` listeners + MongoDB + REST API. Designed a **dual-write migration strategy** that mirrored raw data to the legacy backend while building out the new pipeline, enabling safe incremental cutover instead of a big-bang switch.
 - **Compliance & detection engineering** for a US fintech — drove SecurityHub findings to closure and built CloudWatch Log Insights queries over WAF logs to catch real CIA threats, going beyond compliance checkboxes.
+- **Production OAuth 2.0 authorization server** for an EU client — designed and shipped the server on AWS serverless (SAM, 12 Lambdas, 8 DynamoDB tables, API Gateway, KMS) with a React + TypeScript admin dashboard. Ran a full RFC compliance programme against RFCs 6749 / 6750 / 7009 / 7517 / 7519 / 7636 / 7638 / 8414 (~190 requirements verified), and built scheduled AI-driven security reviews in GitHub Actions across five repos.
 
 ## Background
 
